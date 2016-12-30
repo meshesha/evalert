@@ -1,1 +1,2 @@
-# evalert
+# eValert - eVent Alert jQuery plugin
+## coming soon....
