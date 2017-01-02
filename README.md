@@ -67,7 +67,7 @@ $('#my_events_example').evalert({
 &lt;/script&gt;
 </pre>
 Result:<br>
-<img src="images/evalert4.jpg">
+<img src="https://cloud.githubusercontent.com/assets/18533793/21593102/6a35f648-d11c-11e6-887e-8bba25e30b4a.JPG">
 </div>
 <h2>eValert options:</h2>
 <div class="content">
@@ -257,7 +257,7 @@ Where:<br>
 </div>
 <h2>Alerts Window</h2>
 <div>
-<img src="images/evalert_info.png">
+<img src="https://cloud.githubusercontent.com/assets/18533793/21593120/852c2ba2-d11c-11e6-84e0-63cafd776f35.png">
 </div>
 
 <h2>Licensing</h2>
