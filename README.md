@@ -259,6 +259,9 @@ Where:<br>
 <div>
 <img src="https://cloud.githubusercontent.com/assets/18533793/21593120/852c2ba2-d11c-11e6-84e0-63cafd776f35.png">
 </div>
-
+<h2>Using json file and Ajax php</h2>
+<div>
+<a href="https://github.com/meshesha/evalert/wiki/eValert-file-format"> click here</a>
+</div>
 <h2>Licensing</h2>
 <p>GPLv3</p>
