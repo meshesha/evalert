@@ -1,0 +1,69 @@
+{
+"jcal": [
+	{
+		"id":"1",
+		"name":"json event-1",
+		"type":"torah",
+		"startdate":"2017-01-01",
+		"enddate":"2017-01-01",
+		"starttime":"18:34",
+		"endtime":"18:30",
+		"bgcolor":"white",
+		"color":"black",
+		"url":"",
+		"eventalert":"TYPE=ALERT;BFOR=MIN;VAL=1"
+	},
+	{
+		"id":"2",
+		"name":"json event-2",
+		"type":"torah",
+		"startdate":"2017-01-01",
+		"enddate":"2017-01-01",
+		"starttime":"18:45",
+		"endtime":"18:30",
+		"bgcolor":"black",
+		"color":"white",
+		"url":"",
+		"eventalert":"TYPE=ALERT;BFOR=MIN;VAL=5"
+	},
+	{
+		"id":"3",
+		"name":"json event-3",
+		"type":"torah",
+		"startdate":"2017-01-01",
+		"enddate":"2017-01-01",
+		"starttime":"18:36",
+		"endtime":"18:30",
+		"bgcolor":"",
+		"color":"",
+		"url":"",
+		"eventalert":"TYPE=ALERT;BFOR=MIN;VAL=1"
+	},
+	{
+		"id":"4",
+		"name":"json event-4",
+		"type":"torah",
+		"startdate":"2017-01-01",
+		"enddate":"2017-01-01",
+		"starttime":"18:37",
+		"endtime":"18:30",
+		"bgcolor":"",
+		"color":"",
+		"url":"",
+		"eventalert":"TYPE=ALERT;BFOR=MIN;VAL=2"
+	},
+	{
+		"id":"5",
+		"name":"json event-5",
+		"type":"torah",
+		"startdate":"2017-01-01",
+		"enddate":"2017-01-01",
+		"starttime":"18:38",
+		"endtime":"18:30",
+		"bgcolor":"",
+		"color":"",
+		"url":"http://www.ktuvit.com/",
+		"eventalert":"TYPE=ALERT;BFOR=MIN;VAL=1"
+	}	
+	]
+}
