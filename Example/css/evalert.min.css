@@ -1,0 +1,10 @@
+/*
+@eValert - events alert - jQuery plugin 
+@author: Tadele Meshesha
+@creationDate: 01/01/2017
+@version: 1.0.0
+@authorEmail: meshesha1@gmail.com
+@license: GPL3
+*/ 
+
+.evalert-body{background:#fff;padding:3px;border:solid 1px}.evalert-toolbar{background:#03a9f4;padding:3px;height:15px;text-align:center;vertical-align:middle}.evalert-buutons{float:right;height:10px}.evalert-minimze-maximize,.evalert-close{color:#fff;border:solid 1px;font-size:90%;cursor:pointer;margin-left:2px;padding:1px}.evalert-minimze-maximize:hover,.evalert-close:hover{color:#000}.evalert-icon-max:after{content:"\2610"}.evalert-icon-min:after{content:"\2013"}.evalert-content{width:auto;height:80px;background:#fff;overflow:auto}.evalert-alert{padding:10px;background-color:#f44336;color:#fff;opacity:1;transition:opacity .6s;margin-bottom:5px}.evalert-close-button{margin-left:15px;color:#fff;font-weight:700;float:right;font-size:22px;line-height:20px;cursor:pointer;transition:.3s}.evalert-close-button:hover{color:#000}
